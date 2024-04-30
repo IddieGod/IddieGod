@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-![Header](https://user-images.githubusercontent.com/yourusername/your-header-image.png)
+![Header](https://user-images.githubusercontent.com/IddieGod/github-header-image (2).png)
 
 Welcome to my GitHub profile! I'm [IddieGod](https://github.com/IddieGod), a passionate Data Analyst and Biochemist. Here's a little about me:
 
@@ -30,9 +30,9 @@ I'm proficient in various tools and technologies, including:
 
 <!-- TODO-IST:START -->
 🏆  7,369 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🌸  Completed 30 tasks today           
+✅  Completed 733 tasks so far           
+⏳  Longest streak is 15 days
 <!-- TODO-IST:END -->
 
 ## Top Languages
