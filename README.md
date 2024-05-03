@@ -1,8 +1,12 @@
-# Hi there! 👋
+***Hi there! 👋***
 
-![Header](https://user-images.githubusercontent.com/IddieGod/github-header-image (2).png)
+<p align="centre">
+  <img src="github-header-image (2).png" width="800">
+</p>
 
-Welcome to my GitHub profile! I'm [IddieGod](https://github.com/IddieGod), a passionate Data Analyst and Biochemist. Here's a little about me:
+
+Welcome to my GitHub profile! I'm [IddieGod](https://github.com/IddieGod), 
+a passionate Data Analyst and Biochemist. Here's a little about me:
 
 - 🔬 I'm a Biochemist by training, passionate about unraveling the mysteries of life.
 - 📊 I'm also a Data Analyst, leveraging data to extract insights and drive decision-making.
